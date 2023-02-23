@@ -210,4 +210,7 @@ dimwishlist:item=613334176&perks=,2010801679,2396489472
 
 // cartesianCoordinate
 dimwishlist:item=2481881293&perks=,2039302152,1546637391
+dimwishlist:item=2481881293&perks=,1645158859,2213355989
 
+// aurvandilFR6
+dimwishlist:item=963710795&perks=,1523832109,2978966579
