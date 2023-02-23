@@ -214,3 +214,12 @@ dimwishlist:item=2481881293&perks=,1645158859,2213355989
 
 // aurvandilFR6
 dimwishlist:item=963710795&perks=,1523832109,2978966579
+
+// deliverance
+dimwishlist:item=768621510&perks=,671806388,2978966579
+dimwishlist:item=768621510&perks=,1428297954,2652708987
+
+// hungJurySR4(Adept)
+dimwishlist:item=4074251943&perks=,1820235745,3824105627
+dimwishlist:item=4074251943&perks=,3436462433,2551157718
+
