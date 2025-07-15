@@ -46,3 +46,53 @@ dimwishlist:item=3360937899&perks=3201496230,3078487919
 
 // reckless oracle
 dimwishlist:item=1992309064&perks=2048641572,776531651
+
+//Hawkmoon 
+title:INK WISHLIST
+
+// fractethyst
+dimwishlist:item=3184681056&perks=1482024992,3142289711,706527188,47981717
+
+// trueProphecy
+dimwishlist:item=2742838700&perks=3643424744,3425386926
+dimwishlist:item=2742838700&perks=47981717,3511092054
+
+// zealot'sReward
+dimwishlist:item=2720651699&perks=3250034553,2969185026,1645158859,1194056669
+
+// somethingNew
+dimwishlist:item=586671776&perks=4090651448,3230963543,247725512,1015611457
+
+// eyeOfSol(Adept)
+dimwishlist:item=627188188&perks=1840239774,1885400500,1428297954,957782887
+
+// yesterYear
+dimwishlist:item=1141927949&perks=1840239774,1885400500,1168162263,2458213969,4008116374
+
+// rose
+dimwishlist:item=882778888&perks=3661387068,3142289711,247725512,699525795,3326204863
+
+// igneousHammer(Adept)
+dimwishlist:item=1973107014&perks=1840239774,1885400500,247725512,555281244
+
+// deliverance
+dimwishlist:item=768621510&perks=,1428297954,2652708987
+
+// unworthy
+dimwishlist:item=2226158470&perks=247725512,555281244
+
+// aberrant action
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+
+// unloved
+dimwishlist:item=2485881870&perks=831391274,960997401
+
+// praedyth's revenge
+dimwishlist:item=3844610113&perks=3987942396,3078487919
+dimwishlist:item=3844610113&perks=1354429876,3824105627
+
+// unvoiced
+dimwishlist:item=3360937899&perks=3201496230,3078487919
+
+// reckless oracle
+dimwishlist:item=1992309064&perks=2048641572,776531651
