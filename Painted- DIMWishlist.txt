@@ -31,21 +31,27 @@ dimwishlist:item=768621510&perks=,1428297954,2652708987
 // unworthy
 dimwishlist:item=2226158470&perks=247725512,555281244
 
-// aberrant action
+// aberrantAction
 dimwishlist:item=2198166292&perks=3017780555,4293542123
 
 // unloved
 dimwishlist:item=2485881870&perks=831391274,960997401
 
-// praedyth's revenge
+// praedyth'sRevenge
 dimwishlist:item=3844610113&perks=3987942396,3078487919
 dimwishlist:item=3844610113&perks=1354429876,3824105627
 
 // unvoiced
 dimwishlist:item=3360937899&perks=3201496230,3078487919
 
-// reckless oracle
+// recklessOracle
 dimwishlist:item=1992309064&perks=2048641572,776531651
 
-//Hawkmoon 
+// hawkMoon 
 dimwishlist:item=3856705927&perks=3250034553,699525795,3326204863
+
+// deadlock 
+dimwishlist:item=2035738085&perks=4090651448,3142289711,4071163871,47981717,1067908860
+
+// someday
+dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717
